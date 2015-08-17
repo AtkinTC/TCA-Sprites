@@ -60,9 +60,19 @@
 	- Slow moving, slow turning
 	- 2x small clip chain gun turrets, can be destroyed
 	- 2x tight spread small guided torpedos
+	- low RoF dash torpedos
 	- deploys small and large drones, deployment increases as health goes down
 	- 3 weak points: helm + 2x forward eyes
 	
 	+= Cult Dash Torpedo
 		- very fast max speed and acceleration
 		- turns towards target, and goes straight at full speed, repeat if misses
+
++= Cult False Kraken
+	- very fast fleeing, slow following, slow turning
+	- 2x small clip chain gun turrets, can be destroyed
+	- 4x aimed guns
+	- wide spread burst small guided torpedos
+	- 2x large claw arms, damage on contacts, burst gun inside claw
+	- 2x destroyable engines, 1/3 speed reduction on destruction
+	- 2 weak points: forward helm + rear helm
