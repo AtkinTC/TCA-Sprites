@@ -1,0 +1,68 @@
+===========
++ Enemies +
+===========
+
++= Cult Submarine Small
+	- easy short range enemy
+	- simple spread burst gun
+	- average movement and rotation speed
+	- slow orbital speed
+
++= Cult Submarine Medium
+	- mid range enemy
+	- tight spread chain gun
+	- wide spread small torpedo
+	- average movement and rotation speed
+	- slow orbital speed
+
++= Cult Submarine Pod
+	- mid range enemy
+	- alternates between short and medium range
+	- short range spread torpedos
+	- all range chain gun
+	- fast movement and rotation speed
+	- medium orbital speed
+
++= Cult submarine Large
+	- long range enemy
+	- large clip chain gun
+	- small guided torpedo spread
+	- single large torpedo
+	- deploys a single small drone
+	- average movement and rotation speed
+	- slow orbital speed
+
++= Cult submarine Relic
+	- long range enemy
+	- long range sustained beam weapon, with long charge up time
+	- average movement and rotation speed
+	- slow orbital speed
+
++= Cult drone small
+	- short range minion
+	- weak burst gun
+	- fast closing speed
+	- medium orbital speed
+
++= Cult drone large
+	- mid range minion
+	- weak tight-spread burst gun
+	- fast closing speed
+	- medium orbital speed
+
+
+==========
++ Bosses +
+==========
+
++= Cult False Leviathan
+	- long range
+	- Slow moving, slow turning
+	- 2x small clip chain gun turrets, can be destroyed
+	- 2x tight spread small guided torpedos
+	- deploys small and large drones, deployment increases as health goes down
+	- 3 weak points: helm + 2x forward eyes
+	
+	+= Cult Dash Torpedo
+		- very fast max speed and acceleration
+		- turns towards target, and goes straight at full speed, repeat if misses
