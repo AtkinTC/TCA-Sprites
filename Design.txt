@@ -2,20 +2,22 @@
 + Enemies +
 ===========
 
-+= Cult Submarine Small
++ Cult
+
+++= Cult Submarine Small
 	- easy short range enemy
 	- simple spread burst gun
 	- average movement and rotation speed
 	- slow orbital speed
 
-+= Cult Submarine Medium
+++= Cult Submarine Medium
 	- mid range enemy
 	- tight spread chain gun
 	- wide spread small torpedo
 	- average movement and rotation speed
 	- slow orbital speed
 
-+= Cult Submarine Pod
+++= Cult Submarine Pod
 	- mid range enemy
 	- alternates between short and medium range
 	- short range spread torpedos
@@ -23,7 +25,7 @@
 	- fast movement and rotation speed
 	- medium orbital speed
 
-+= Cult submarine Large
+++= Cult submarine Large
 	- long range enemy
 	- large clip chain gun
 	- small guided torpedo spread
@@ -32,23 +34,66 @@
 	- average movement and rotation speed
 	- slow orbital speed
 
-+= Cult submarine Relic
+++= Cult submarine Relic
 	- long range enemy
 	- long range sustained beam weapon, with long charge up time
 	- average movement and rotation speed
 	- slow orbital speed
 
-+= Cult drone small
+++= Cult drone small
 	- short range minion
 	- weak burst gun
 	- fast closing speed
 	- medium orbital speed
 
-+= Cult drone large
+++= Cult drone large
 	- mid range minion
-	- weak tight-spread burst gun
+	- weak tight-spread burst weapon
 	- fast closing speed
 	- medium orbital speed
+
+++= Cult turret torp/chain
+	- stationary turret
+	- decent tracking
+	- large unguided torpedos
+	- small clip chain gun
+
++ Sci
+
+++= Sci submarine small
+	- short range
+	- fast orbital speed
+	- short range unguided small torpedo spread
+
+++= Sci submarine medium
+	- mid range
+	- medium orbital speed
+	- small clip, fast reload, chain gun
+	- guided small torpedo spread
+
+++= Sci submarine large
+	- small clip, fast reload, chain gun
+	
+++= Sci submarine X-large
+	- large clip chain gun
+	- large guided torpedos
+	- 2x small clip chain gun turrets
+
+++= Sci submarine double small
+	- unguided small torpedo wide spread
+	- long range basic weapon
+
+++= Sci submarine double medium
+	- long range tight burst chain weapon
+
+++= Sci submarine double large
+	- long range sustained beam weapon, with long charge up time
+
+++= Sci drone small
+	- weak fast basic weapon
+
+++= Sci drone large
+	- weak fast chain gun
 
 
 ==========
@@ -66,7 +111,7 @@
 	
 	+= Cult Dash Torpedo
 		- very fast max speed and acceleration
-		- turns towards target, and goes straight at full speed, repeat if misses
+		- turns towards target, and then goes straight at full speed, repeat until hits or expires
 
 += Cult False Kraken
 	- very fast fleeing, slow following, slow turning
@@ -76,3 +121,13 @@
 	- 2x large claw arms, damage on contacts, burst gun inside claw
 	- 2x destroyable engines, 1/3 speed reduction on destruction
 	- 2 weak points: forward helm + rear helm
+	- moves fast away from player, keeping distance
+	- holds claws in front of forward helm for defense
+	- occasionally moves in and swipes with claws, leaving forward helm exposed
+	- rush attack with claws held out to sides
+
++= Sci Containment Vessel
+
++= Sci X-47
+
++= Royal Mobile Fortress
