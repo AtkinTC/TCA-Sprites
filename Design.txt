@@ -4,28 +4,20 @@
 
 + Cult
 
-++= Cult Submarine Small
+++= Cult submarine small
 	- easy short range enemy
 	- simple spread burst gun
 	- average movement and rotation speed
 	- slow orbital speed
 
-++= Cult Submarine Medium
+++= Cult submarine medium
 	- mid range enemy
 	- tight spread chain gun
 	- wide spread small torpedo
 	- average movement and rotation speed
 	- slow orbital speed
 
-++= Cult Submarine Pod
-	- mid range enemy
-	- alternates between short and medium range
-	- short range spread torpedos
-	- all range chain gun
-	- fast movement and rotation speed
-	- medium orbital speed
-
-++= Cult submarine Large
+++= Cult submarine large
 	- long range enemy
 	- large clip chain gun
 	- small guided torpedo spread
@@ -34,7 +26,23 @@
 	- average movement and rotation speed
 	- slow orbital speed
 
-++= Cult submarine Relic
+++= Cult submarine pod medium
+	- mid range enemy
+	- alternates between short and medium range
+	- short range spread torpedos
+	- all range chain gun
+	- fast movement and rotation speed
+	- medium orbital speed
+
+++= Cult submarine pod large
+	- small claws block projectiles and do damage on contact
+
+++= Cult submarine pod X-large
+	- large clip chain guided small torpedo weapon, wide spread
+	- large claws block projectiles and do damage on contact
+	- defaults to long range, charges in for claw attacks and then backs off
+
+++= Cult submarine relic
 	- long range enemy
 	- long range sustained beam weapon, with long charge up time
 	- average movement and rotation speed
